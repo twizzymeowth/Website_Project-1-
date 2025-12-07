@@ -26,5 +26,5 @@ The purpose of this project is to host and actively update a website for (client
 5) Live Server (for development)
 6) Git & Github
 # Development
-
+1) Configuring VS code with extensions such as 
  
