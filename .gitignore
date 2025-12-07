@@ -1,0 +1,10 @@
+# Node / common
+node_modules/
+dist/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
